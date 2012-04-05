@@ -1,0 +1,13 @@
+YP Clock Sim is a clock simulator that consists of a clock, a countdown timer and alarm clock. The alarm clock lets you choose your own mp3 song as alarm tone and also remembers your alarm setting.
+
+It can be useful when you are in computer and want to use it for specific amount of time.. but don't know the passage of time. It pops up and plays a song for your alarm time.
+
+It also has minimize to system tray feature when you press minimize button. Keeps your taskbar neat and less crowded :D. plus you might forget the app is running but it won't forget the time ;)
+
+I am posting source codes along with the main program. It has been written in VB and has been written in a simple format :)
+
+Requirements:
+
+    Windows Xp or higher
+    net framework 3.5 or higher
+    128mb ram
